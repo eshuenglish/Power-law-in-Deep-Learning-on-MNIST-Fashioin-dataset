@@ -1,0 +1,1 @@
+# Power-law-in-Deep-Learning-on-MNIST-Fashioin-dataset
